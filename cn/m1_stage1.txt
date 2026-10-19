@@ -1,0 +1,44 @@
+tut1	[size:11]移动：         \n方向键
+tut2	[size:11]射击：   \nZ键
+tut3	[size:11]射击方块时，           \n方块会爆炸
+tut4	[size:11]让颜色相同即可           \n引发连锁爆炸
+tut5	[size:11]按住X键蓄力，              \n释放必杀攻击
+tut6	[size:11]试着用爆炸吞下敌人              \n射出的子弹
+tut7	教程文本 7
+tut8	教程文本 8
+tut9	教程文本 9
+help1	同时只能存在一发子弹
+line1k-1e	[speed:1.5]啊，打扰了～
+line1k-2e	[speed:1.5][freq:low]你这个笨蛋！快点做好觉悟！
+line1k-3e	[speed:1.5]诶～？
+line1k-4e	[speed:1.5][freq:low]那是敌人！
+line2k-1e	[speed:1.5][freq:low]我可没打算\n束手就擒。
+line2k-2e	[speed:1.5]他看起来不像坏人～
+line2k-3e	[speed:1.5]你才不会被吃掉呢～
+line2k-4e	[speed:1.5][freq:low]就算同归于尽，\n我也要拦住他！
+line3k-1e	[speed:1.5][freq:low]事到如今，也只能如此了吗……
+line3k-2e	[speed:1.5][freq:low]对不起，我可能\n已经保护不了你了。
+line3k-3e	[speed:1.5]你不用保护我啦～不过……
+line3k-4e	[speed:1.5]不可以放弃哦～
+line3k-5e	[speed:1.5]要是中途就放弃了～\n我们也不会相遇。
+line3k-6e	[speed:1.5][freq:low]……说得也是。
+line3k-7e	[speed:1.5][freq:low]让最后一朵花绽放吧。
+dank-1e	[speed:1.5][freq:low]……你没事吧？\n是我让你陷入不必要的危险。
+dank-2e	[speed:1.5]我毫不后悔～
+dank-3e	[speed:1.5]无论前方有什么～\n只要和你在一起～
+line1s-1e	[speed:1.5]那个～我能突然问个问题吗？
+line1s-2e	[speed:1.5][freq:low]才不会突然\n问什么问题。
+line1s-3e	[speed:1.5]诶诶～为什么～
+line1s-4e	[speed:1.5][freq:low]只有死路一条！
+line2s-1e	[speed:1.5]她看起来不像坏人～
+line2s-2e	[speed:1.5][freq:low]不想死的话，\n就少废话。
+line2s-3e	[speed:1.5][speed:1.2][freq:low]我体内的脉动告诉我，\n她就是邪恶的化身。
+line2s-4e	[speed:1.5]真的～？
+line3s-1e	[speed:1.5][freq:low]我可没打算乖乖地\n等着被消灭。
+line3s-2e	[speed:1.5][freq:low]我会挣扎到\n最后一刻。
+line3s-3e	[speed:1.5]等等，等等～
+line3s-4e	[speed:1.5]她肯定不是坏人啦～
+line3s-5e	[speed:1.5][freq:low]我会保护你到最后。
+dans-1e	[speed:1.5][freq:low]……我还以为世界\n早在很久以前就抛弃我们了。
+dans-2e	[speed:1.5]看吧，她就不是坏人～
+dans-3e	[speed:1.5]她只是把我们打得半死不活～

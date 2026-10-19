@@ -1,0 +1,15 @@
+page	[size:20]　录像回放　第 %d/%d 页
+record_left1	　　　 日期时间：　$MM$/$dd$/$yyyy$ $HH$:$mm$:$ss$
+record_left2	　　　 用时：　$MIN$:$SEC$
+record_left3	　　　 射击次数：　$SHOOTS$
+record_left4	　　　 剩余体力：　$HP$
+record_left5	　　　 剩余必杀：　$SP$
+record_left6	　　　　（按确认键回放录像）
+record_right1	　　　　　　　　　　　　　　　　　　　　　版本：　$VER$
+record_right2	　　　　　　　　　　　　　　　　　　　　　击破敌机：　$ENEMIES$
+record_right3	　　　　　　　　　　　　　　　　　　　　　消除弹幕：　$BULLETS$
+record_right4	　　　　　　　　　　　　　　　　　　　　　破坏方块：　$BLOCKS$
+record_right5	　　　　　　　　　　　　　　　　　　　　　得分道具：　$ITEMS$
+line	[size:17]$MM$/$dd$/$yyyy$ $HH$:$mm$:$ss$  $DIFFICULTY$第$STAGE$关  $NAME$  得分:$SCORE$
+name1	海浬
+name2	沙月

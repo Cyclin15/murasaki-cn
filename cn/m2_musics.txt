@@ -1,0 +1,16 @@
+title	♪相连
+01stage	♪苏醒微风
+01boss	♪童话毒独
+02stage	♪今已恬然古战场
+02boss	♪倍倍艺梦
+03stage	♪泪泪湖
+03boss	♪健美独角娘
+04stage	♪忠节之筒
+04boss	♪祸福异服
+05stage	♪三重筐
+05boss	♪奋起吧无垢的女王
+05boss_true	♪苍之剑斩裂黄昏
+06stage	♪晦冥鸣动
+06boss	♪审判之锋
+ending	♪终结之夜阴
+endless	♪虚空游弋

@@ -1,0 +1,15 @@
+stage1	[offset_y:-6][offset_x:-10][size:18]第一关：炭之森（Sumi no Mori）\n不被需要的事物与人最终的归宿。\n据说幸存者在森林深处\n建立起了独特的文明。
+stage2	[offset_y:-6][offset_x:-10][size:18]第二关：东海道（Toukaidou）\n你正沿着海边的道路向东前进，\n视野却突然被封闭。附近似乎\n发生了什么，不过还是别管了。
+stage3	[offset_y:-6][offset_x:-10][size:18]第三关：百目湖（Hyakumeko）\n在并不遥远的过去，这里的水之民\n迎来了悲惨的结局。你即将穿过\n他们曾经栖息的洞窟。
+stage4	[offset_y:-6][offset_x:-10][size:18]第四关：夜之家（Yoru no Ie）\n一座曾凭借好运与地利\n享受过短暂荣光的宅邸。\n顺路进去观光一下吧，目的地就在前方。
+stage5	[offset_y:-6][offset_x:-10][size:18]第五关：希望之原（Nozomigahara）\n她那深重而强烈的思念，使身体\n与“理”之力同化。当她的心到达\n极限之时，她将与世界共命运。
+stage6	[offset_y:-6][offset_x:-10][size:18]第六关：斩首场遗迹（Kubikirijou Atochi）\n你收到了一封决斗挑战书，\n去看看吧！
+stage_forbidden	现在还不能选择。
+char_forbidden	不能选择。
+normal	受保护
+hard	无保护
+yet1	现在还不能卸下。
+yet2	现在还不能卸下。\n（这相当于“困难模式”。\n 请等待更新补丁。）
+player1	[line:23]速度：普通\n射程：长\n爆炸：普通\n必杀：防御力超群\n[space_half]\n 平衡而安全\n  适合新手
+player2	[line:23]速度：快\n射程：短\n爆炸：强\n必杀：善用是关键\n[space_half]\n 专精速度\n  与火力
+endless	＝＝＝＝ 梦 ＝＝＝＝

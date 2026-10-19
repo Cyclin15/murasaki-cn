@@ -1,0 +1,66 @@
+line1k-1k	[size:17]海浬「看啊看啊」
+line1k-2s	[size:17]沙月「看什么」
+line1k-3k	[size:17]海浬「看我的脸」
+line1k-4s	[size:17]沙月「让人火大到不行」
+line1k-5k	[size:17]海浬「对吧」
+line1k-6s	[size:17]沙月「真是不可思议」
+line1k-7s	[size:17]沙月「这次的事你并没有直接\n　　牵涉其中」
+line1k-8s	[size:17]沙月「为什么一脸大功告成的\n　　样子」
+line1k-9k	[size:17]海浬「弟弟就是镜子里的我」
+line1k-10k	[size:17]海浬「只要一瞬的命运不同，我就是弟弟，\n　　弟弟就是我」
+line1k-11k	[size:17]海浬「由我来收拾善后是理所当然\n　　的嘛！」
+line1k-12s	[size:17]沙月「…是吗。」
+line1k-13k	[size:17]海浬「好啦，这次的危机过去了！」
+line1k-14k	[size:17]海浬「我们是无敌的！」
+line1k-15k	[size:17]海浬「明天也要迎战最大的困难\n　　！」
+line1k-16s	[size:17]沙月「…」
+line1k-17s	[size:17]海浬「睡着了吧」
+line1k-18s	[size:17]沙月「…」
+line1k-19k	[size:17]海浬「其实你也一样吧？」
+line1s-1s	[size:17]沙月「有翼的人们」
+line1s-2k	[size:17]海浬「刚才的天空，好厉害吧？」
+line1s-3s	[size:17]沙月「有翼的……」
+line1s-4k	[size:17]海浬「接下来去看什么好呢」
+line1s-5s	[size:17]沙月「有翼……」
+line1s-6k	[size:17]海浬「喂喂」
+line1s-7s	[size:17]沙月「……」
+line1s-8k	[size:17]海浬「喂」
+line1s-9s	[size:17]沙月「有翼的人们被迫在地上\n　　爬行」
+line1s-10s	[size:17]沙月「人们却始终无缘得见\n　　那片天空」
+line1s-11s	[size:17]沙月「那是被禁止的景象」
+line1s-12k	[size:17]海浬「太好了呢」
+line1s-13k	[size:17]海浬「自由真棒」
+line1s-14s	[size:17]沙月「那是…」
+line1s-15s	[size:17]沙月「渴望从秩序中解放的人们」
+line1s-16s	[size:17]沙月「是否不惜流血也想亲眼\n　　看到那景象？」
+line1s-17k	[size:17]海浬「谁知道呢」
+line1s-18k	[size:17]海浬「他们大概没那么深入\n　　想过吧？」
+line1s-19k	[size:17]海浬「大家不都是这样吗？」
+line2-1k	海浬「喂——」[music:title0]
+line2-2s	沙月「……」
+line2-3k	海浬「睡着了吗？」
+line2-4s	沙月「……」
+line2-5k	海浬「呀呼——！」
+line2-6s	沙月「……」
+line2-7k	海浬「咻！咻！」
+line2-8s	沙月「……」
+line2-9s	沙月「……」
+line2-10s	沙月「……」
+line2-11k	海浬「好，果然睡着了」
+line2-12s	沙月「……」
+line2-13k	海浬「就那样睡吧」
+line2-14s	沙月「海」
+line2-15k	海浬「诶？」
+line2-16s	沙月「下次去看海」
+line2-17s	沙月「吧」
+line2-18k	海浬「这样啊」
+line2-19k	海浬「好啊」
+line2-20s	沙月「不错吧」
+line2-21s	沙月「你与我…」[music:]
+line2-22s	沙月「一心同体」
+line2-23s	沙月「对吧」
+line2-24k	海浬「是啊」
+line2-25s	沙月「不坏嘛」
+line2-26k	海浬「什么？」
+line2-27s	沙月「你那释然的脸」
+line2-28k	海浬「对吧」

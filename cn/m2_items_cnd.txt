@@ -1,0 +1,64 @@
+item01_cnd	条件：启动游戏
+item02_cnd	条件：海浬全部关卡最高得分合计超过2000000点\n当前{{score_sum_k}}点 {{score_sum_k_progress:2000000}}
+item03_cnd	条件：海浬全部关卡最高得分合计超过5000000点\n当前{{score_sum_k}}点 {{score_sum_k_progress:5000000}}
+item04_cnd	条件：海浬全部关卡最高得分合计超过10000000点\n当前{{score_sum_k}}点 {{score_sum_k_progress:10000000}}
+item05_cnd	条件：沙月全部关卡最高得分合计超过2000000点\n当前{{score_sum_s}}点 {{score_sum_s_progress:2000000}}
+item06_cnd	条件：沙月全部关卡最高得分合计超过5000000点\n当前{{score_sum_s}}点 {{score_sum_s_progress:5000000}}
+item07_cnd	条件：沙月全部关卡最高得分合计超过10000000点\n当前{{score_sum_s}}点 {{score_sum_s_progress:10000000}}
+item08_cnd	条件：暂时通关游戏
+item09_cnd	条件：海浬达成5方块同时起爆50次\n当前{{chain5_k}}次 {{chain5_k_progress:50}}
+item10_cnd	条件：海浬连续通关成功(按顺序连续通关第1～5关){{stage_k}}
+item11_cnd	条件：沙月达成5方块同时起爆50次\n当前{{chain5_s}}次 {{chain5_s_progress:50}}
+item12_cnd	条件：沙月连续通关成功(按顺序连续通关第1～5关){{stage_s}}
+item13_cnd	条件：通关第1关
+item14_cnd	条件：通关第1关\n※接受全部决斗\n※海浬、沙月双方
+item15_cnd	条件：通关第2关
+item16_cnd	条件：通关第2关\n※接受全部决斗\n※海浬、沙月双方
+item17_cnd	条件：通关第3关
+item18_cnd	条件：通关第3关\n※接受全部决斗\n※海浬、沙月双方
+item19_cnd	条件：通关第4关
+item20_cnd	条件：通关第4关\n※接受全部决斗\n※海浬、沙月双方
+item21_cnd	条件：坏结局(斩首)
+item22_cnd	条件：坏结局(枭首)
+item23_cnd	条件：通关第5关
+item24_cnd	条件：通关第5关\n※接受全部决斗\n※海浬、沙月双方
+item25_cnd	条件：通关第6关
+item26_cnd	条件：通关第6关\n※接受全部决斗\n※海浬、沙月双方
+item27_cnd	条件：第1关得分超过2000000点
+item28_cnd	条件：第2关得分超过2500000点
+item29_cnd	条件：第3关得分超过3500000点
+item30_cnd	条件：第4关得分超过2000000点
+item31_cnd	条件：第5关得分超过2800000点
+item32_cnd	条件：第6关得分超过3000000点
+item33_cnd	条件：匣子未曾开启
+item34_cnd	条件：无伤且不使用必杀通过第1关中Boss
+item35_cnd	条件：无伤且不使用必杀通过第2关前段
+item36_cnd	条件：海浬达成方块增殖50次\n当前{{replication_k}}次 {{replication_k_progress:50}}
+item37_cnd	条件：沙月达成方块增殖50次\n当前{{replication_s}}次 {{replication_s_progress:50}}
+item38_cnd	条件：至少接受一次决斗的【血】
+item39_cnd	条件：海浬取得1种Boss决斗“优”(无伤且不使用必杀)\n当前{{superior_k}}种 {{superior_k_progress:1}}
+item40_cnd	条件：海浬取得4种Boss决斗“优”(无伤且不使用必杀)\n当前{{superior_k}}种 {{superior_k_progress:4}}
+item41_cnd	条件：海浬取得7种Boss决斗“优”(无伤且不使用必杀)\n当前{{superior_k}}种 {{superior_k_progress:7}}
+item42_cnd	条件：海浬取得10种Boss决斗“优”(无伤且不使用必杀)\n当前{{superior_k}}种 {{superior_k_progress:10}}
+item43_cnd	条件：海浬梦中得分5000000点
+item44_cnd	条件：沙月取得1种Boss决斗“优”(无伤且不使用必杀)\n当前{{superior_s}}种 {{superior_s_progress:1}}
+item45_cnd	条件：沙月取得4种Boss决斗“优”(无伤且不使用必杀)\n当前{{superior_s}}种 {{superior_s_progress:4}}
+item46_cnd	条件：沙月取得7种Boss决斗“优”(无伤且不使用必杀)\n当前{{superior_s}}种 {{superior_s_progress:7}}
+item47_cnd	条件：沙月取得10种Boss决斗“优”(无伤且不使用必杀)\n当前{{superior_s}}种 {{superior_s_progress:10}}
+item48_cnd	条件：沙月梦中得分5000000点
+item49_cnd	条件：听过这首音乐
+item50_cnd	条件：听过这首音乐
+item51_cnd	条件：听过这首音乐
+item52_cnd	条件：听过这首音乐
+item53_cnd	条件：听过这首音乐
+item54_cnd	条件：听过这首音乐
+item55_cnd	条件：听过这首音乐
+item56_cnd	条件：听过这首音乐
+item57_cnd	条件：听过这首音乐
+item58_cnd	条件：听过这首音乐
+item59_cnd	条件：听过这首音乐
+item60_cnd	条件：听过这首音乐
+item61_cnd	条件：听过这首音乐
+item62_cnd	条件：听过这首音乐
+item63_cnd	条件：听过这首音乐
+item64_cnd	条件：听过这首音乐

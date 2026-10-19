@@ -1,0 +1,23 @@
+﻿ScreenMode	显示模式
+ScreenModeWindow	窗口
+ScreenModeFullScreen1	全屏
+ScreenModeFullScreen2	全屏（保持比例）
+Resolution	画面尺寸
+BgmVolume	BGM 音量
+SeVolume	 音效音量
+Button1	确定／射击
+Button2	返回／必杀
+Button3	暂停
+KeyMapping	键盘
+PadMapping	手柄
+SaveAndExit	    保存设置
+CancelAndExit	不保存退出
+CurrentVersion	当前版本
+LatestVersion	最新版本
+Processing	获取中……
+RevertToDefault	恢复默认
+Update	更新版本
+UpdateCompleted	已更新。
+PatchMessage1	
+PatchMessage2	
+PadNum	手柄数量

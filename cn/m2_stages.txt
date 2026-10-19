@@ -1,0 +1,15 @@
+stage1	[offset_y:-6][offset_x:-10][size:18]第一关：黑花园（Kurohanabatake）\n美丽而诡异的花朵恣意绽放之地。\n其中或许混杂着危险的花，\n以及它们的天敌。
+stage2	[offset_y:-6][offset_x:-10][size:18]第二关：剑之丘（Tsurugigaoka）\n曾承载“冀望之ハ”命运的\n“剑之丘之战”的故地。如今，命名由来\n的一根根木桩之间，和平的风静静吹拂。
+stage3	[offset_y:-6][offset_x:-10][size:18]第三关：泪之湖（Ruiruiko）\n据说这片人工湖在过去拯救过众多\n干渴之人。让我们横渡这片满溢女王之泪、\n耀眼而神圣的湖水，饱览沿途风光吧。
+stage4	[offset_y:-6][offset_x:-10][size:18]第四关：青壁隧道（Seiheki Tsuudou）\n把珍贵之物收于最深、最深处。\n“他”遵循这句箴言将“它”安置于此，\n并在沿途布下了各式各样的陷阱。
+stage5	[offset_y:-6][offset_x:-10][size:18]第五关：要之回廊（Kaname Yokurou）\n唯有被选中者方获准通行的道路。\n这里充斥着某人强大意志\n所散发的庄严压迫感。
+stage6	[offset_y:-6][offset_x:-10][size:18]第六关：夜之径（Yomichi）\n夜晚……这是个弥漫着厚重沉淀物的空间，\n四处飘散的理力在此凝滞。\n多少人迷失于此，忘却了前行的目的？
+stage_forbidden	现在还不能选择。
+char_forbidden	不能选择。
+normal	受保护
+hard	无保护
+yet1	现在还不能卸下。
+yet2	现在还不能卸下。\n（这相当于“困难模式”。\n 请等待更新补丁。）
+player1	[line:23]速度：普通\n射程：长\n爆炸：普通\n必杀：防御力超群\n[space_half]\n 平衡而安全\n  适合新手
+player2	[line:23]速度：快\n射程：短\n爆炸：强\n必杀：善用是关键\n[space_half]\n 专精速度\n  与火力
+endless	＝＝＝＝ 梦 ＝＝＝＝

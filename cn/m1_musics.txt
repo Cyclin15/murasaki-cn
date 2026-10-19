@@ -1,0 +1,14 @@
+title	♪彩虹的碎片
+01stage	♪萌芽之花……
+01boss	♪两半
+02stage	♪封闭的世界
+02boss	♪徒劳的喧嚣之战
+03stage	♪在月池垂钓琉璃……
+03boss	♪远雷迷途之讯……
+04stage	♪草木之香的梦境
+04boss	♪翱翔的感伤
+05stage	♪探寻明天
+05boss	♪虹色
+06stage	♪荆棘断头台
+06boss	♪拼布公主
+ending	♪梦之余香……
